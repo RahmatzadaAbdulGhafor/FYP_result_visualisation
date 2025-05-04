@@ -1,0 +1,11 @@
+generated_response,Perplexity,BLEU,ROUGE,BERTScore,F1,Readability,Latency,Throughput (tokens/sec),Memory Usage (MB),model_name
+"Below is some context that may help answer a user question. Please read it carefully and provide a concise, accurate response.
+
+Context:
+
+
+Question:
+what is cyber security?
+
+Answer:
+Cybersecurity refers to the practices and technologies used to protect digital information, networks, and systems from unauthorized access, use, disclosure, disruption, modification, or destruction. It includes a range of measures, such as firewalls, antivirus software, encryption, access controls, and security policies, to help prevent cyber attacks and data breaches. Cybersecurity is important for individuals, businesses, and organizations of all sizes, as the increasing reliance on technology for communication, commerce, and data storage makes them more vulnerable to cyber threats.",2.5359270572662354,0.052617176,"{'rouge1': Score(precision=0.21875, recall=0.7777777777777778, fmeasure=0.34146341463414637), 'rouge2': Score(precision=0.09523809523809523, recall=0.35294117647058826, fmeasure=0.15), 'rougeL': Score(precision=0.1875, recall=0.6666666666666666, fmeasure=0.29268292682926833)}",0.7248279452323914,0.35443037974683544,"{'flesch_reading_ease': 19.57, 'gunning_fog': 16.09}",1.502953290939331,41.57076707587312,"{'CPU Memory Used (MB)': 0.0, 'GPU Memory Used (MB)': 62041.14}",mistralai/Mistral-7B-Instruct-v0.2

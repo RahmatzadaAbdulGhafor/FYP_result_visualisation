@@ -1,0 +1,11 @@
+generated_response,Perplexity,BLEU,ROUGE,BERTScore,F1,Readability,Latency,Throughput (tokens/sec),Memory Usage (MB),model_name
+"Below is some context that may help answer a user question. Please read it carefully and provide a concise, accurate response.
+
+Context:
+what is cyber security? Cybersecurity refers to the practices, technologies, and processes designed to protect computers, networks, programs, and data from attack, damage, or unauthorized access. It encompasses measures such as encryption, multi-factor authentication, firewalls, intrusion detection systems, and regular software updates. The goal is to ensure the confidentiality, integrity, and availability of information, thereby safeguarding critical infrastructure and personal data in an interconnected digital world. N/A https://example.com/what-is-cybersecurity
+
+Question:
+what is cyber security?
+
+Answer:
+Cybersecurity is the practice of protecting computers, networks, programs, and data from unauthorized access, damage, or attack. It involves various measures like encryption, multi-factor authentication, firewalls, and regular software updates to ensure the confidentiality, integrity, and availability of information.",4.149059772491455,0.044629970679348076,"{'rouge1': Score(precision=0.20833333333333334, recall=0.8333333333333334, fmeasure=0.33333333333333337), 'rouge2': Score(precision=0.11267605633802817, recall=0.47058823529411764, fmeasure=0.18181818181818182), 'rougeL': Score(precision=0.20833333333333334, recall=0.8333333333333334, fmeasure=0.33333333333333337)}",0.7143721580505371,0.33707865168539325,"{'flesch_reading_ease': -2.98, 'gunning_fog': 14.3}",2.9015588760375977,53.32397625131902,"{'CPU Memory Used (MB)': 0.0, 'GPU Memory Used (MB)': 19916.26}",tiiuae/Falcon3-10B-Instruct

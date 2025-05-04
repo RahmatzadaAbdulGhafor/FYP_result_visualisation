@@ -1,0 +1,11 @@
+generated_response,Perplexity,BLEU,ROUGE,BERTScore,F1,Readability,Latency,Throughput (tokens/sec),Memory Usage (MB),model_name
+"what is cyber security?
+You are here
+What is Cyber Security?
+Cybersecurity is the practice of protecting internet-connected systems, including hardware, software, and data, from attack, damage, or unauthorized access. It involves a range of measures and technologies designed to safeguard information and systems from cyber threats, such as malware, phishing attacks, ransomware, and data breaches.
+
+Key aspects of cybersecurity include:
+
+1. **Prevention**: Implementing measures to stop cyber threats from occurring",1.9172513484954834,0.089104725,"{'rouge1': Score(precision=0.11888111888111888, recall=0.9444444444444444, fmeasure=0.21118012422360247), 'rouge2': Score(precision=0.04929577464788732, recall=0.4117647058823529, fmeasure=0.0880503144654088), 'rougeL': Score(precision=0.08391608391608392, recall=0.6666666666666666, fmeasure=0.14906832298136646)}",0.6403952240943909,0.20915032679738563,"{'flesch_reading_ease': 34.12, 'gunning_fog': 11.48}",2.2063488960266113,32.13637940655594,"{'CPU Memory Used (MB)': 0.0, 'GPU Memory Used (MB)': 28473.34}",tiiuae/Falcon3-7B-Instruct
+,,,,,,,,,,
+,,,,,,,,,,
