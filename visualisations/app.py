@@ -2,10 +2,8 @@ import streamlit as st
 import os
 
 from utils import load_metrics, normalize
-from radar_chart import plot_radar
 from dumbbell_plot import plot_dumbbell
 from delta_heatmap import plot_delta_heatmap
-from bullet_graph import plot_bullet_graph
 from parallel_coordinates import plot_parallel_coordinates
 
 # === Paths ===
