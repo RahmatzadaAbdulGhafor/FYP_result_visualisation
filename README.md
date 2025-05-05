@@ -3,6 +3,13 @@
 This Streamlit-based dashboard provides **interactive visualisation** of evaluation metrics for various Large Language Models (LLMs), comparing **Base**, **RAG**, and **Fine-Tuned** variants.
 
 ---
+# Preview
+
+<p align="center">
+  <img src="data/READMEScreenshot.png" alt="Dashboard Screenshot" width="1600"/>
+</p>
+
+---
 
 ##  Features
 
